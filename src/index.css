@@ -1,0 +1,9 @@
+body
+{
+  background-image: url("./resources/background-img.webp");
+  /* backdrop-filter: brightness(60%); */
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+
+}

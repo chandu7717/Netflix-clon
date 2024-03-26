@@ -1,0 +1,157 @@
+footer
+{
+    height: 700px;
+    width: 100vw;
+    background-color: black;
+    position: relative;
+    top: 30px;
+}
+.footer-watch{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 123px;
+    padding-bottom:90px;
+    position: relative;
+
+
+}
+#input-email
+{
+    height: 80px;   
+    padding-top: 8px;   
+    margin-top: 8px; 
+    width: 700px;
+
+}
+#footer-input-email>a>button
+{
+ color: white;
+ background-color: rgb(213,13,22);
+ height: 60px;
+ width: 200px;
+ position: relative;
+ bottom: 26px;
+ right: 100px;
+ border-radius: 5px;
+ border: none;
+ font-size: 25px;
+ font-weight: 400;
+ font-family: Arial, Helvetica, sans-serif;
+}
+#footer-input-email>input
+{
+    height: 60px;
+    width: 880px;
+    background-color: rgba(0, 0, 0, 0.53);
+    border-color: red;
+    border-radius: 5px;
+    margin-left: 120px;
+    margin-top: 50px;
+    color: white;
+    font-size: 16px;
+    outline: none;
+    
+}
+::placeholder
+{
+    color: rgb(181, 175, 175);
+    font-size: 15px;
+}
+#faq
+{
+    color: rgb(181, 175, 175);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    position: relative;
+    left: 140px;
+    top: 20px;
+    /* border: 2px solid red; */
+    width: 30%;
+
+}
+#links
+{
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    /* border: 2px solid red; */
+    width: 90vw;
+    margin-left: 130px;
+
+    
+}
+ul>li>a
+{
+    color: rgb(181, 175, 175);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration-color: rgba(255, 255, 255, 0.755);
+    /* border: 2px solid red; */
+    
+
+}
+li
+{
+    padding: 10px;
+    position: relative;
+    right: 100px;
+    bottom: 15px;
+}
+
+#line1-one,#line2-two,#line3-three,#line4-four
+{
+   transition: all 0.2s;
+
+   width: 200px; 
+   height: 200px; 
+   margin-top: 60px;
+   border-radius: 10px;
+   box-shadow: 0px 5px 30px rgba(255, 255, 255, 0.214);
+}
+#line1-one:hover
+{
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+#line2-two:hover
+{
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+#bharath
+{
+    color: rgba(255, 255, 255, 0.475);
+    font-family: sans-serif;
+    position: relative;
+    bottom: 50px;
+    left: 19px;
+    /* border: 2px solid red; */
+    width: 10%;
+
+}
+#line3-three:hover
+{
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+#line4-four:hover
+{
+    transform: scale(1.1);
+    transition: all 0.2s;
+}
+select
+{
+    background-color: rgb(26, 25, 25);
+    border-color: rgba(255, 255, 255, 0.573);
+    color: white;
+    height: 30px;
+    width: 120px;
+    border-radius: 2px;
+}
+#lang
+{
+    position:relative;
+    right: 1119px;
+    top: 300px;
+}
+
+
