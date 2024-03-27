@@ -57,6 +57,7 @@ input
     border-radius: 6px;
     background-color: transparent;
     border: 0.5px solid rgba(255, 255, 255, 0.407);
+color:white;
 }
 ::placeholder
 {
@@ -80,6 +81,7 @@ table
 input[type="password"]
 {
     margin-top: 30px;
+    color:white;
 }
 #sign
 {
